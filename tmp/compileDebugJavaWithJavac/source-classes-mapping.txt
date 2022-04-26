@@ -1,0 +1,20 @@
+com/example/myapplication/Bookseats.java
+ com.example.myapplication.Bookseats
+com/example/myapplication/EmailidVerification.java
+ com.example.myapplication.EmailidVerification
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/ReviewsScreen.java
+ com.example.myapplication.ReviewsScreen
+ com.example.myapplication.ReviewsScreen$1
+com/example/myapplication/signupScreen.java
+ com.example.myapplication.signupScreen
+com/example/myapplication/HomePage.java
+ com.example.myapplication.HomePage
+ com.example.myapplication.HomePage$1
+com/example/myapplication/ForgotPassword.java
+ com.example.myapplication.ForgotPassword
+ com.example.myapplication.ForgotPassword$1
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+ com.example.myapplication.MainActivity$1
